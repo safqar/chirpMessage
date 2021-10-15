@@ -10,6 +10,6 @@ If the formatted string exceeds 140 characters, truncate the chirp message, and 
 
 Example, if the following data were given, it the following outputs would be expected:
 
-Message: Hello World! Author: Jack Daniels Date: 2021-06-28T07:00:00.000Z Views: 99999 Formatted Output: Hello World! 06/28/2021 99999 Jack Daniels
-Message: This is a maximum length chirp because I like writing long chirps. Why? I'm not really sure. Maybe I'm just a rebel.. or maybe it's a phase? Author: John Smith Date: 2021-04-22T00:00:00.000Z Views: 100 Formatted Output: This is a maximum length chirp because I like writing long chirps. Why? I'm not really sure. Maybe I'm just a r... 04/22/2021 100 John Smith
-Message: This chirp probably won't get a lot of attention. Author: Jane Doe Date: 2021-03-04T04:00:00.000Z Views: 251236 Formatted Output: This chirp probably won't get a lot of attention. 03/04/2021 251236 Jane Doe 🔥
+I.Message: Hello World! Author: Jack Daniels Date: 2021-06-28T07:00:00.000Z Views: 99999 Formatted Output: Hello World! 06/28/2021 99999 Jack Daniels
+II.Message: This is a maximum length chirp because I like writing long chirps. Why? I'm not really sure. Maybe I'm just a rebel.. or maybe it's a phase? Author: John Smith Date: 2021-04-22T00:00:00.000Z Views: 100 Formatted Output: This is a maximum length chirp because I like writing long chirps. Why? I'm not really sure. Maybe I'm just a r... 04/22/2021 100 John Smith
+III.Message: This chirp probably won't get a lot of attention. Author: Jane Doe Date: 2021-03-04T04:00:00.000Z Views: 251236 Formatted Output: This chirp probably won't get a lot of attention. 03/04/2021 251236 Jane Doe 🔥
